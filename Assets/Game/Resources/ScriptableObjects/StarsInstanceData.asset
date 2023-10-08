@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3253da5e4aacee64f8ba7f117faa4804, type: 3}
+  m_Name: StarsInstanceData
+  m_EditorClassIdentifier: 
+  yellowDwarf:
+    _spawnRate: 0.3
+    _prefab: {fileID: 824215066835220125, guid: 21fe100ab50d86343a5c2e45636e8bf2,
+      type: 3}
+  redDwarf:
+    _spawnRate: 0.4
+    _prefab: {fileID: 5127182349101187453, guid: ff72511fcb2b391498ea0d926b68033a,
+      type: 3}
+  redGiant:
+    _spawnRate: 0.15
+    _prefab: {fileID: 4459004035030651669, guid: 2f611c8bd467503428d3f47f8728e05e,
+      type: 3}
+  blueDwarf:
+    _spawnRate: 0.05
+    _prefab: {fileID: 6849851406598394686, guid: f55f1189c4b2ed34ab38c538d92eac8d,
+      type: 3}
+  blueGiant:
+    _spawnRate: 0.05
+    _prefab: {fileID: 6485748451756421955, guid: aa7f211755b6ac24e80c5aba71f376b8,
+      type: 3}
+  whiteDwarf:
+    _spawnRate: 0.05
+    _prefab: {fileID: 2583247625707033767, guid: 804865bbce73cd647af969421302eb63,
+      type: 3}
+  stars: []
