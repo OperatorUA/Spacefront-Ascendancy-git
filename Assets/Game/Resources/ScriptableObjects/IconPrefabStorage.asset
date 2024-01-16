@@ -13,6 +13,12 @@ MonoBehaviour:
   m_Name: IconPrefabStorage
   m_EditorClassIdentifier: 
   objectsEntries:
-  - key: Icon_SelectedStar
+  - key: Icon_SelectedSector
     gameObject: {fileID: 8810290659175419660, guid: 1c28f941e9aef8047b85e500255c8ba5,
+      type: 3}
+  - key: Icon_CurrentSector
+    gameObject: {fileID: 127643661121843472, guid: 91479f08ac615c74b9048ce3d4e9c4b9,
+      type: 3}
+  - key: Icon_BossCurrentSector
+    gameObject: {fileID: 8793785548086802132, guid: a3a7697e2f8a680409cac83471223fcd,
       type: 3}

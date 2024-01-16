@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class InGameIconRotation : MonoBehaviour
 {
-    public float rotationSpeed = 45f;
+    public float rotationSpeed = 55f;
 
     private Camera _camera;
     private void Start()

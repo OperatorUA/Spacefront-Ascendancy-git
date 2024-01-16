@@ -10,8 +10,8 @@ public class InGameIconScaling : MonoBehaviour
     public bool DistanceIndependentSize = true;
     public bool UpDownScalingAnimation = true;
 
-    public float iconSize = .1f;
-    public float scaleSpeed = 2f;
+    public float iconSize = 0.065f;
+    public float scaleSpeed = 1.5f;
     [Range(0f, 1f)] public float scaleDistance = 0.08f;
 
 
